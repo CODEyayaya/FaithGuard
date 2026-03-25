@@ -1,0 +1,39 @@
+# Embeddings
+sentence-transformers
+
+# Vector search
+faiss-cpu
+
+# RAG pipeline
+langchain
+langchain-community
+
+# LLM + NLI models
+transformers
+torch
+
+# Dataset loading
+datasets
+
+# Classifiers
+scikit-learn
+xgboost
+imbalanced-learn
+
+# NLP / NER
+spacy
+
+# Groq API
+groq
+
+# Data handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+requests
+python-dotenv
